@@ -1,9 +1,11 @@
  ## Hello there, I'm Sylvester Henrique
   
-- 🤖 I'm currently working with chatbots and REST API's
-- 👨‍💻 I have some experience as a Full Stack Web Developer
-- 🤝 I'm looking to contribute to open-source community
-- 😀 Today, my favorite technology is the .NET platform
+- 🤖 Currently I work mainly with .NET, SQL Server and React
+- 👨‍💻 I have some experience as a Full Stack Engineer (Web)
+- 🤝 I like reviewing Pull Requests to help improve other people’s code and also to learn from it.
+- 📚 I love to learn and apply some Software Engineer concepts and principles as: SOLID, Design Patterns, Low Coupling and High Cohesion.
+
+
 
 <p align="center">
     <a href="https://www.linkedin.com/in/sylvester-henrique">
