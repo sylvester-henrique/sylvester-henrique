@@ -12,14 +12,14 @@
     <a href="https://stackoverflow.com/users/11799053/sylvester-henrique">
         <img src="https://img.shields.io/badge/stackoverflow-383838?logo=stackoverflow&style=for-the-badge"></img>
     </a>
-    <a href="https://www.nuget.org/profiles/SylvesterH13">
+    <a href="https://www.nuget.org/profiles/sylvester-henrique">
         <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&style=for-the-badge"></img>
     </a>
-    <a href="https://dev.to/sylvesterh13">
+    <a href="https://dev.to/sylvester-henrique">
         <img src="https://img.shields.io/badge/dev.to-090909?logo=dev.to&style=for-the-badge&logoColor=white"></img>
     </a>  
 <p>
 
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SylvesterH13&layout=compact&exclude_repo=paginaPessoal&hide_border=true&theme=holi" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvester-henrique&layout=compact&exclude_repo=paginaPessoal&hide_border=true&theme=holi" />
 </>
