@@ -1,11 +1,9 @@
  ## Hello there, I'm Sylvester Henrique
-  
-- 🤖 Currently I work mainly with .NET, SQL Server and React
-- 👨‍💻 I have some experience as a Full Stack Engineer (Web)
-- 🤝 I like reviewing Pull Requests to help improve other people’s code and also to learn from it.
-- 📚 I love to learn and apply some Software Engineer concepts and principles as: SOLID, Design Patterns, Low Coupling and High Cohesion.
 
-
+- 👨‍💻 I am a Full Stack Engineer with a strong focus on backend development.
+- 🤖 Today I work mainly with .NET, SQL Server, Azure, React and microservices architecture.
+- 🤝 I constantly do code reviews, giving feedback based on my own experience and best practices adopted by the industry.
+- 💻 When developing solutions I give right attention to crucial aspects as scalability, observability, resilience, security and Software Engineer concepts and principles, such as: SOLID, Design Patterns, Low Coupling and High Cohesion.
 
 <p align="center">
     <a href="https://www.linkedin.com/in/sylvester-henrique">
