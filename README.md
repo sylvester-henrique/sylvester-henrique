@@ -18,7 +18,7 @@
     <a href="https://stackoverflow.com/users/11799053/sylvester-henrique">
         <img src="https://img.shields.io/badge/stackoverflow-383838?logo=stackoverflow&style=for-the-badge"></img>
     </a>
-    <a href="https://www.nuget.org/profiles/sylvester-henrique">
+    <a href="https://www.nuget.org/profiles/SylvesterH13">
         <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&style=for-the-badge"></img>
     </a>
 <p>
