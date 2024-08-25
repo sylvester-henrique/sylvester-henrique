@@ -23,5 +23,5 @@
 <p>
 
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SylvesterH13&layout=compact&exclude_repo=paginaPessoal&theme=holi" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SylvesterH13&layout=compact&exclude_repo=paginaPessoal&hide_border=true&theme=holi" />
 </>
