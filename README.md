@@ -22,6 +22,6 @@
     </a>  
 <p>
 
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SylvesterH13&hide_border=true&layout=compact&hide=C&theme=github_dark  )
-| - |
-
+<p align="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SylvesterH13&layout=compact&exclude_repo=paginaPessoal&theme=holi" />
+</>
