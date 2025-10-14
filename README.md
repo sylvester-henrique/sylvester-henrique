@@ -1,8 +1,8 @@
  ### Hello there, I'm Sylvester Henrique
 
 - 👨‍💻 I'm a Full Stack Engineer with a strong focus on backend development.
-- 🤝 I constantly do code reviews, giving feedback based on my own experience and best practices adopted by the industry.
-- 💻 When developing solutions I give right attention to crucial aspects as scalability, observability, resilience, security and Software Engineer concepts and principles, such as: SOLID, Design Patterns, Low Coupling and High Cohesion.
+- 🤝 I constantly do `code reviews`, giving feedback based on my own experience and `best practices` adopted by the industry.
+- 💻 When developing solutions I give right attention to crucial aspects as `scalability`, `observability`, `resilience`, `security` and Software Engineer concepts and principles, such as: `SOLID`, `Design Patterns`, `Low Coupling` and `High Cohesion`.
 
 <p align="center">
     <a href="https://www.linkedin.com/in/sylvester-henrique">
