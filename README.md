@@ -4,6 +4,8 @@
 - 🤝 I constantly do `code reviews`, giving feedback based on my own experience and `best practices` adopted by the industry.
 - 💻 When developing solutions I give right attention to crucial aspects as `scalability`, `observability`, `resilience`, `security` and Software Engineer concepts and principles, such as: `SOLID`, `Design Patterns`, `Low Coupling` and `High Cohesion`.
 
+<br>
+
 <p align="center">
     <a href="https://www.linkedin.com/in/sylvester-henrique">
         <img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=linkedin&style=for-the-badge"></img>
